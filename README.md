@@ -1,7 +1,6 @@
-🚧🚧 PROYECTO EN CONSTRUCCIÓN 🚧🚧
-
-Orion Tube
-
-Cliente basado en SmartTube.
-
-🚧🚧 PROYECTO EN CONSTRUCCIÓN 🚧🚧
+> [!WARNING]
+> **•PRÓXIMAMENTE•**
+---
+> Fecha de lanzamiento: desconocido
+---
+> SO compatible: Android TV
